@@ -1,4 +1,4 @@
-//Realizar una funcion que muestre todos los numeros pares entre a Y b
+//Realizar una funcion que muestre todos los numeros pares desde a hasta b
 
 
 entregaUno(a = parseInt(prompt("Ingrese el numero de inicio para obtener los pares")),
